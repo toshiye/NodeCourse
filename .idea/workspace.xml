@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94f84bd4-7f6e-4338-b987-5c04d267a0b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/playground/2-arrow-function.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playground/3-arrow-challenge.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FirstApp/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/FirstApp/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FirstApp/notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/FirstApp/notes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstApp/notes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playground/1-json.js" beforeDir="false" afterPath="$PROJECT_DIR$/playground/1-json.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playground/1-json.json" beforeDir="false" afterPath="$PROJECT_DIR$/playground/1-json.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,21 +15,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FirstApp/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+              <caret line="73" column="13" lean-forward="true" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FirstApp/notes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="62" column="54" selection-start-line="62" selection-start-column="54" selection-end-line="62" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FirstApp/notes.js">
+        <entry file="file://$PROJECT_DIR$/FirstApp/notes.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state>
+              <caret column="42" lean-forward="true" selection-start-column="42" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -52,8 +60,10 @@
       <list>
         <option value="$PROJECT_DIR$/playground/1-json.json" />
         <option value="$PROJECT_DIR$/playground/1-json.js" />
-        <option value="$PROJECT_DIR$/FirstApp/app.js" />
+        <option value="$PROJECT_DIR$/playground/2-arrow-function.js" />
+        <option value="$PROJECT_DIR$/playground/3-arrow-challenge.js" />
         <option value="$PROJECT_DIR$/FirstApp/notes.js" />
+        <option value="$PROJECT_DIR$/FirstApp/app.js" />
       </list>
     </option>
   </component>
@@ -66,12 +76,14 @@
     <option name="width" value="1400" />
     <option name="height" value="830" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -88,6 +100,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -119,18 +132,18 @@
       <option name="presentableId" value="Default" />
       <updated>1553195637092</updated>
       <workItem from="1553195640479" duration="12000" />
-      <workItem from="1553196793741" duration="2473000" />
+      <workItem from="1553196793741" duration="2829000" />
+      <workItem from="1553264220877" duration="8410000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2485000" />
+    <option name="totallyTimeSpent" value="11251000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25321338" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11568123" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -143,7 +156,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.17397079" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.14209828" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -155,9 +168,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/playground/i-json.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/playground/i-json.js" />
     <entry file="file://$PROJECT_DIR$/playground/1-json.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -172,17 +183,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstApp/app.js">
+    <entry file="file://$PROJECT_DIR$/playground/3-arrow-challenge.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+        <state relative-caret-position="357">
+          <caret line="21" column="67" selection-start-line="21" selection-start-column="67" selection-end-line="21" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playground/2-arrow-function.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FirstApp/notes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state relative-caret-position="122">
+          <caret line="62" column="54" selection-start-line="62" selection-start-column="54" selection-end-line="62" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstApp/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="73" column="13" lean-forward="true" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstApp/notes.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" lean-forward="true" selection-start-column="42" selection-end-column="42" />
         </state>
       </provider>
     </entry>
