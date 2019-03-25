@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94f84bd4-7f6e-4338-b987-5c04d267a0b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SecondApp - WeatherApp/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondApp - WeatherApp/utils/forecast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondApp - WeatherApp/utils/geocode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playground/4-callbacks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playground/5-es6-objects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playground/6-raw-http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-server/public/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-server/public/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-server/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-server/views/about.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-server/views/help.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-server/views/index.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstApp/notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/FirstApp/notes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondApp - WeatherApp/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/SecondApp - WeatherApp/app.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +25,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SecondApp - WeatherApp/app.js">
+        <entry file="file://$PROJECT_DIR$/web-server/src/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            <state relative-caret-position="65">
+              <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-server/views/help.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-server/views/index.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-server/views/about.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-server/public/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="65">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -28,6 +74,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -44,7 +92,22 @@
         <option value="$PROJECT_DIR$/playground/3-arrow-challenge.js" />
         <option value="$PROJECT_DIR$/FirstApp/app.js" />
         <option value="$PROJECT_DIR$/FirstApp/notes.js" />
+        <option value="$PROJECT_DIR$/SecondApp - WeatherApp/package.json" />
+        <option value="$PROJECT_DIR$/playground/4-callbacks.js" />
+        <option value="$PROJECT_DIR$/playground/5-es6-objects.js" />
         <option value="$PROJECT_DIR$/SecondApp - WeatherApp/app.js" />
+        <option value="$PROJECT_DIR$/SecondApp - WeatherApp/utils/forecast.js" />
+        <option value="$PROJECT_DIR$/SecondApp - WeatherApp/utils/geocode.js" />
+        <option value="$PROJECT_DIR$/playground/6-raw-http.js" />
+        <option value="$PROJECT_DIR$/web-server/public/help.html" />
+        <option value="$PROJECT_DIR$/web-server/public/js/app.js" />
+        <option value="$PROJECT_DIR$/web-server/public/index.html" />
+        <option value="$PROJECT_DIR$/web-server/public/about.html" />
+        <option value="$PROJECT_DIR$/web-server/public/css/styles.css" />
+        <option value="$PROJECT_DIR$/web-server/views/index.hbs" />
+        <option value="$PROJECT_DIR$/web-server/views/about.hbs" />
+        <option value="$PROJECT_DIR$/web-server/views/help.hbs" />
+        <option value="$PROJECT_DIR$/web-server/src/app.js" />
       </list>
     </option>
   </component>
@@ -65,6 +128,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -75,20 +139,28 @@
             <path>
               <item name="NodeCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="NodeCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="SecondApp - WeatherApp" type="462c0819:PsiDirectoryNode" />
+              <item name="web-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NodeCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NodeCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="web-server" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -116,17 +188,19 @@
       <workItem from="1553196793741" duration="2829000" />
       <workItem from="1553264220877" duration="9190000" />
       <workItem from="1553511381306" duration="27000" />
-      <workItem from="1553511436427" duration="1270000" />
+      <workItem from="1553511436427" duration="7719000" />
+      <workItem from="1553521721559" duration="17285000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13328000" />
+    <option name="totallyTimeSpent" value="37062000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11825193" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10218509" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -139,7 +213,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49871466" visible="true" weight="0.14209828" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49871466" weight="0.16334662" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5012854" side_tool="true" weight="0.14209828" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -204,10 +278,114 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SecondApp - WeatherApp/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playground/4-callbacks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playground/5-es6-objects.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playground/6-raw-http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SecondApp - WeatherApp/utils/geocode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SecondApp - WeatherApp/utils/forecast.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="126" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="126" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SecondApp - WeatherApp/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        <state relative-caret-position="272">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-server/public/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="51" selection-start-column="51" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-server/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-server/views/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-server/public/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-server/public/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-server/views/about.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-server/public/help.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-server/views/help.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-server/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
         </state>
       </provider>
     </entry>
