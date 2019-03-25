@@ -9,6 +9,8 @@ const addNote = (title, body) => {
     //     return note.title === title
     // })
 
+    //debugger - para debugar o Node - section 5
+
     if (!duplicateNote) {
         notes.push({
             title: title,
