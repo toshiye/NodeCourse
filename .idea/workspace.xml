@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94f84bd4-7f6e-4338-b987-5c04d267a0b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/web-server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web-server/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-server/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/web-server/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-server/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/web-server/src/app.js" afterDir="false" />
-    </list>
+    <list default="true" id="94f84bd4-7f6e-4338-b987-5c04d267a0b9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +149,7 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -191,18 +187,17 @@
       <workItem from="1553511381306" duration="27000" />
       <workItem from="1553511436427" duration="7719000" />
       <workItem from="1553521721559" duration="17805000" />
-      <workItem from="1553598070715" duration="17651000" />
+      <workItem from="1553598070715" duration="17921000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55233000" />
+    <option name="totallyTimeSpent" value="55503000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11632391" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11632391" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -215,7 +210,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49871466" weight="0.16334662" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49871466" visible="true" weight="0.16334662" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5012854" side_tool="true" weight="0.14209828" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
