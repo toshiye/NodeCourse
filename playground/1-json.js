@@ -19,8 +19,8 @@ const fs = require('fs')
 
 const dataBuffer = fs.readFileSync('1-json.json')
 const dataJSON = dataBuffer.toString()
-const user = JSON.parse(dataJSON)
-
+const user =
+JSON.parse(dataJSON)
 user.name = 'Sarinha'
 user.age = 1
 
